@@ -2,7 +2,7 @@
 
 * In this example, we Introduce HERE Venue Maps API and learn how to add the indoor layer to our applications. The example utilizes the venues service to show the indoor map of some places such as malls, restaurants, parkings etc..., and provides the user with control to show different floor levels.
 
-1. Go to the geocoding example page: [https://developer.here.com/api-explorer/maps-js/v3.0/maps/venues-layer](https://developer.here.com/api-explorer/maps-js/v3.0/maps/venues-layer)
+1. Go to the venues API example page: [https://developer.here.com/api-explorer/maps-js/v3.0/maps/venues-layer](https://developer.here.com/api-explorer/maps-js/v3.0/maps/venues-layer)
 
 2. How to build the example on your local machine
     * Create an empty html page
