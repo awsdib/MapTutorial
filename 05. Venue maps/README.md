@@ -2,19 +2,18 @@
 
 * In this example, we Introduce HERE Venue Maps API and learn how to add the indoor layer to our applications. The example utilizes the venues service to show the indoor map of some places such as malls, restaurants, parkings etc..., and provides the user with control to show different floor levels.
 
-* What's needed for the example to work locally:
-    1. Adding the venues layer to the map
-    2. Show the user interface that controls floor levels
-
 1. Go to the geocoding example page: [https://developer.here.com/api-explorer/maps-js/v3.0/maps/venues-layer](https://developer.here.com/api-explorer/maps-js/v3.0/maps/venues-layer)
 
-2. Open the html page from the past example in your text editor
-
-2. From the code section, JS+HTML tab, copy the definition of the following functions, and add them to your application
-    * ```   function addVenueLayer(map, platform, renderControls)    ```
-    * ```   function onSpaceCreated(space)    ```
-    * ```   function renderControls(title, buttons)    ```
-    * Finally, copy the call for adding the venue layer ``` addVenueLayer(map, platform, renderControls); ``` located in the end of the example
+2. How to build the example on your local machine
+    * Create an empty html page
+        - Open your favorite text editor
+        - Select file -> save as
+        - Enter a file name with *(.html)* as extention
+        - Open the html file with your text editor
+    * Copy the code example for venue maps
+        - From the examples page and the Code section copy the complete code from *(JS+html)* tab to your new page
+        - Replace the two app keys with your own
+        - Double click the html file to run it in the browser
 
 3. Understanding the code
     1. Adding the venues layer 
@@ -61,9 +60,7 @@
     ```
 
 4. Output:
-    * At this point, the application implements both geocoding and venues services
-    * To see that in action, type in the search field the text "Berlin Alexanderplatz"
-    * Locate the *"Alexa Shopping Center"* on the map near Alexander street
+    * The application shows indoor maps for supported places (malls, restaurants, parkings etc...)
     * Zoom in until the indoor map is shown
     * Try the control buttons and change the floor level
     * Check out how the 'H&M' is styled differently
