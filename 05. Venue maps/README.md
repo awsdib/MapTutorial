@@ -6,7 +6,7 @@
     1. Adding the venues layer to the map
     2. Show the user interface that controls floor levels
 
-1. Go to the geocoding example page: [https://developer.here.com/api-explorer/maps-js/v3.0/maps/venues-layer](https://developer.here.com/api-explorer/maps-js/v3.0/maps/venues-layer)
+1. Go to the venues API example page: [https://developer.here.com/api-explorer/maps-js/v3.0/maps/venues-layer](https://developer.here.com/api-explorer/maps-js/v3.0/maps/venues-layer)
 
 2. Open the html page from the past example in your text editor
 
