@@ -3,7 +3,7 @@
 1. Visit the examples page for javascript on DevPortal: [https://developer.here.com/api-explorer/maps-js/v3.0](https://developer.here.com/api-explorer/maps-js/v3.0)
 
 2. Page structure:
-    - Introduction to the example with all relevant infoprmation
+    - Introduction to the example with all relevant information
     - The output of the example is shown
     - The Code section includes 2 tabs
         1. "Javascript" tab for adding the example to an existing project

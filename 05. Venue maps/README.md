@@ -1,6 +1,6 @@
 ## Working with indoor venue maps
 
-* In this example, we Introduce HERE Venue Maps API and learn how to add the indoor layer to our applications. The example utilizes the venues service to show the indoor map of some places such as malls, restaurants, parkings etc..., and probvides the user with control to show different floor levels.
+* In this example, we Introduce HERE Venue Maps API and learn how to add the indoor layer to our applications. The example utilizes the venues service to show the indoor map of some places such as malls, restaurants, parkings etc..., and provides the user with control to show different floor levels.
 
 * What's needed for the example to work locally:
     1. Adding the venues layer to the map

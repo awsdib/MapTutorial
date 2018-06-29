@@ -11,7 +11,7 @@
 
 1. Creating the user interface: All what's needed to dynamic geocoding of user input is to have an input field and a search button
     1. Open the html page from the previous example in your text editor
-    2. Replace your App key and App code
+    2. Make sure that you replaced your App key and App code
     3. In the **HTML** section, find the panel element
     4. The new interface should be added inside the panel element
         The old html structure:
